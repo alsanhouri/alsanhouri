@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Open Source, Technology
 - 🌱 I’m currently learning Advanced JavaScript, Node.js, and cloud services
 - 💞️ I’m looking to collaborate on open-source web development projects
-- 📫 How to reach me  [01148468387] | [LinkedIn](www.linkedin.com/in/muhammad-alsanhouri)
+- 📫 How to reach me  [01148468387] | [LinkedIn] www.linkedin.com/in/muhammad-alsanhouri
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I enjoy solving complex coding challenges and contributing to community projects in my free time.
 
