@@ -1,4 +1,4 @@
-- 👋 Hi, I’m muhammad al-sanhouri
+- 👋 Hi, I’m mohamed elsanhory
 - 👀 I’m interested in Web Development, Open Source, Technology
 - 🌱 I’m currently learning Advanced JavaScript, Node.js, and cloud services
 - 💞️ I’m looking to collaborate on open-source web development projects
